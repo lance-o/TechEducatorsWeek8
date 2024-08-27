@@ -7,3 +7,4 @@ Not going to lie this week, I am very disappointed in what I was able to achieve
 ## Add comments using a user-friendly form
 ## Comment on posts contextually.
 ## Automatically redirected to posts page after posting.
+## Posts can be deleted.
